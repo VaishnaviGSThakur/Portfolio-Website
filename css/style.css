@@ -247,6 +247,8 @@ ul.cv li {
     text-align: center;
     margin: 10px auto;
     margin-bottom: 10px;
+    width:90%;
+    height:85%;
 }
 
 .sec3 {
@@ -279,13 +281,14 @@ ul.cv li {
 .contact-info-container {
     display: flex;
     align-items: center;
+    text-align: center;
     justify-content: center;
     gap: 0.5rem;
     margin: 1rem;
 }
 
 .contact-info-container p {
-    font-size: larger;
+    font-size: small;
 }
 
 .contact-icon {
